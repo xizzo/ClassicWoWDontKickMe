@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\bin\Debug\LeaveMeOn.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\bin\Debug\LeaveMeOn.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\bin\Debug\LeaveMeOn.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\bin\Debug\WindowsInput.dll
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\bin\Debug\WindowsInput.xml
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\LeaveMeOn\LeaveMeOn\obj\Debug\LeaveMeOn.csproj.CopyComplete
